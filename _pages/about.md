@@ -46,7 +46,7 @@ Mr. Fang is currently engaged in several interdisciplinary research projects at 
 - ✅ **[2024-09-03]**, Our remote-sensing segmentation project [Hi-ResNet](https://github.com/AmberJar/Prior) is now open-source on GitHub! 
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2026</div><img src='images/mogo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2026</div><img src='images/mambav1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiFi-Mamba: Dual-Stream W-Laplacian Enhanced Mamba for High-Fidelity MRI Reconstruction](https://arxiv.org/pdf/2508.09179)
