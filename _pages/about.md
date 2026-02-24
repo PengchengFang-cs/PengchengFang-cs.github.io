@@ -39,9 +39,10 @@ Mr. Fang is currently engaged in several interdisciplinary research projects at 
 * His research integrates model efficiency, representation learning, and real-world deployment concerns, with applications ranging from intelligent surveillance to conservation and healthcare.
 
 # ✨ News 
+- 🔥 **[2026-02-24]**, Our MRI reconstruction project BridgeMamba: Frequency–Spatial Bridging for Undersampled MRI Segmentation is accepted by CVPR!
 - 🔥 **[2026-02-24]**, Our Motion Generation project [MotionDuet: Dual-Conditioned 3D Human Motion Generation with Video-Regularized Text Learning](https://arxiv.org/pdf/2511.18209) is accepted by CVPR!
 - 🔥 **[2025-11-20]**, Our MRI reconstruction project [HiFi-Mamba: Dual-Stream W-Laplacian Enhanced Mamba for High-Fidelity MRI Reconstruction](https://arxiv.org/pdf/2508.09179) is accepted by AAAI!  
-- 🔥 **[2025-11-20]**, Our motion generation project [MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation](https://arxiv.org/pdf/2506.05952) is accepted by AAAI! 
+- 🔥 **[2025-11-20]**, Our Motion Generation project [MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation](https://arxiv.org/pdf/2506.05952) is accepted by AAAI! 
 - 🔥 **[2025-06-19] Breaking News**: Our AI-powered donkey recognition project has been featured on <img src="images/bbc_black.svg" alt="BBC Logo" width="48"/>[BBC News](https://www.bbc.co.uk/news/articles/cgrxjd1l2p1o). Our GitHub and dataset will be open-sourced soon.
 - ✅ **[2025-06-03]**, Our motion generation project [MOGO](https://github.com/MiRECoFu/Mogo) is now open-source on GitHub! 
 - ✅ **[2024-09-03]**, Our remote-sensing segmentation project [Hi-ResNet](https://github.com/AmberJar/Prior) is now open-source on GitHub! 
