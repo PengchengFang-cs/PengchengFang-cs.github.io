@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Pengcheng Fang"
-description              : "Focusing on motion generation, computer vision and multi-modality model"
-repository               : "AmberJar/amberjar.github.io"
+description              : "Human motion generation, world models, embodied intelligence, and neural operators."
+repository               : "PengchengFang-cs/PengchengFang-cs.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pengcheng Fang"
   avatar           : "images/avatar.png"
-  bio              : "University of Southampton"
+  bio              : "PhD Candidate, University of Southampton"
   location         : "Southampton, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=3WRZzYUAAAAJ&hl=en"
   email            : "p.fang@soton.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/AmberJar"
+  github           : "PengchengFang-cs"
   google_plus      :
   keybase          :
   instagram        :

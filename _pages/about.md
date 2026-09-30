@@ -19,27 +19,27 @@ redirect_from:
 
 # 🧑‍ About Me 
 
-Mr. Pengcheng Fang received his Bachelor's degree from Shanxi University in China, followed by a Master's degree from Lancaster University. He is a PhD candidate at the University of Southampton, supervised by [Prof. Xiaohao Cai](He is a PhD candidate at the University of Southampton, supervised by [Prof. Xiaohao Cai](https://xiaohaocai.netlify.app/) and [Dr. Jianshi](https://www.southampton.ac.uk/people/5x96vy/doctor-jian-shi).
+I am **Pengcheng Fang (方鹏程)**, a PhD candidate at the **University of Southampton**, supervised by [Prof. Xiaohao Cai](https://xiaohaocai.netlify.app/) and [Dr. Jian Shi](https://www.southampton.ac.uk/people/5x96vy/doctor-jian-shi). I am currently a research intern in **Prof. Shengjin Wang's group at Tsinghua University**, Department of Electronic Engineering, working on world models and embodied intelligence.
 
 
-After completing his master's degree, Dr. Fang worked in China as an algorithm engineer, focusing primarily on computer vision applications. He served as a research team lead at two publicly listed companies, where he led the development and deployment of several successful consumer-facing (C-end) and enterprise-level (B-end) AI projects. These real-world experiences provided him with deep insights into the practical challenges of applying machine learning at scale. Motivated by a strong interest in scientific research and innovation, he later resigned from industry and pursued a Ph.D. in the United Kingdom to further explore cutting-edge research in artificial intelligence.
+My research focuses on **learning representations and dynamics for motion generation and intelligent action**. I study controllable human motion generation, the role of future information in world action models, and structured neural operators. My work combines method development and theoretical analysis with empirical evaluation; **CHASM**, for example, studies the structure of spectral token operators through a shared channel basis across frequencies.
 
-Mr. Fang is currently engaged in several interdisciplinary research projects at the intersection of artificial intelligence and real-world applications. His work focuses on:
+My current research interests include:
 
-* Human motion generation, where he explores generative models and transformer-based architectures for producing realistic and controllable movements from textual or sensory inputs.
+* **Human motion generation:** motion representations, generative modeling, and control through text, video, and sparse motion constraints.
 
-* Multimodal foundation models, aiming to unify visual, textual, and structural data for improved perception, understanding, and reasoning across domains.
+* **World models and embodied intelligence:** future-aware action learning, robot manipulation, and learning from egocentric observations.
 
-* Multi-object tracking (MOT), particularly in complex and unconstrained environments, using deep tracking-by-detection methods and video transformers.
+* **Neural operators and efficient architectures:** spectral modeling, structured operators, and analysis of their representational properties.
 
-* Wildlife biometrics, focusing on animal identification and behavior analysis using computer vision, with an emphasis on non-invasive recognition of species such as donkeys in natural settings.
+* **Multimodal understanding:** visual grounding, hallucination mechanisms, and reliable vision-language models.
 
-* Medical image reconstruction and segmentation, where he applies lightweight Mamba-based models and diffusion techniques to enhance MRI imaging and improve diagnostic accuracy.
-
-* His research integrates model efficiency, representation learning, and real-world deployment concerns, with applications ranging from intelligent surveillance to conservation and healthcare.
+Before my PhD, I worked as an algorithm engineer on computer vision and deployed AI systems. I received my master's degree from Lancaster University and my bachelor's degree from Shanxi University. I also collaborate on applications in medical imaging and wildlife conservation.
 
 # ✨ News 
-- 🔥 **[2026-02-24]**, Our MRI reconstruction project BridgeMamba: Frequency–Spatial Bridging for Undersampled MRI Segmentation is accepted by ISMRM!
+- 🔥 **[2026-09]** Two papers accepted at **NeurIPS 2026**: [CHASM](https://arxiv.org/abs/2605.14727) on spectral neural operators and [Dual-Pathway Circuits](https://arxiv.org/abs/2605.13156) on object hallucination in vision-language models!
+- **[2026-08]** I joined Prof. Shengjin Wang's group at **Tsinghua University** as a research intern, working on world models and embodied intelligence.
+- 🔥 **[2026-02-24]**, Our MRI segmentation project BridgeMamba: Frequency–Spatial Bridging for Undersampled MRI Segmentation is accepted by ISMRM!
 - 🔥 **[2026-02-24]**, Our Motion Generation project [MotionDuet: Dual-Conditioned 3D Human Motion Generation with Video-Regularized Text Learning](https://arxiv.org/pdf/2511.18209) is accepted by CVPR!
 - 🔥 **[2025-11-20]**, Our MRI reconstruction project [HiFi-Mamba: Dual-Stream W-Laplacian Enhanced Mamba for High-Fidelity MRI Reconstruction](https://arxiv.org/pdf/2508.09179) is accepted by AAAI!  
 - 🔥 **[2025-11-20]**, Our Motion Generation project [MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation](https://arxiv.org/pdf/2506.05952) is accepted by AAAI! 
@@ -48,15 +48,59 @@ Mr. Fang is currently engaged in several interdisciplinary research projects at 
 - ✅ **[2024-09-03]**, Our remote-sensing segmentation project [Hi-ResNet](https://github.com/AmberJar/Prior) is now open-source on GitHub! 
 
 # 📝 Publications
+
+<sup>★</sup> Equal contribution. Preprints are listed separately below.
+
+<div class="paper-box paper-box--text-only">
+<div class="paper-box-text" markdown="1">
+
+<span class="publication-venue">NeurIPS 2026</span>
+
+**[CHASM: Cross-frequency Harmonized Axis-Separable Mixing for Spectral Token Operators](https://arxiv.org/abs/2605.14727)**
+
+**Pengcheng Fang**, Hongli Chen, Yuxia Chen, Tengjiao Sun, Jiaxin Liu, Xiaohao Cai
+
+A structured spectral neural operator with a shared channel basis and frequency-specific gains. The work combines analysis of the resulting operator family with evaluations on image reconstruction and segmentation.
+
+</div>
+</div>
+
+<div class="paper-box paper-box--text-only">
+<div class="paper-box-text" markdown="1">
+
+<span class="publication-venue">NeurIPS 2026</span>
+
+**[Dual-Pathway Circuits of Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2605.13156)**
+
+Jiaxin Liu, Ding Zhong, Yue Wang, Zhidong Yang, Zhaolu Kang, Guangyuan Dong, Qishi Zhan, **Pengcheng Fang**, Aofan Liu
+
+A causal investigation of visual grounding and object hallucination in vision-language models, identifying distinct internal pathways and evaluating targeted interventions.
+
+</div>
+</div>
+
+<div class="paper-box paper-box--text-only">
+<div class="paper-box-text" markdown="1">
+
+<span class="publication-venue">CVPR 2026</span>
+
+**[MotionDuet: Dual-Conditioned 3D Human Motion Generation with Video-Regularized Text Learning](https://arxiv.org/abs/2511.18209)**
+
+Yi-Yang Zhang<sup>★</sup>, Tengjiao Sun<sup>★</sup>, **Pengcheng Fang**<sup>★</sup>, Deng-Bao Wang, Xiaohao Cai, Min-Ling Zhang, Hansung Kim
+
+Controllable 3D human motion generation that combines textual semantics with video-derived motion cues, using cross-modal alignment to connect the two conditions.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2026</div><img src='images/mambav1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiFi-Mamba: Dual-Stream W-Laplacian Enhanced Mamba for High-Fidelity MRI Reconstruction](https://arxiv.org/pdf/2508.09179)
 
-Hongli Chen<sup>★</sup>, **Pengcheng Fang**<sup>★</sup>, Yuxia Chen, Xiaohao Cai, Yingxuan Ren, Jing Hao, Fangfang Tang, Xiaohao Cai, Shanshan Shan, Feng Liu
+Hongli Chen<sup>★</sup>, **Pengcheng Fang**<sup>★</sup>, Yuxia Chen, Yingxuan Ren, Jing Hao, Fangfang Tang, Xiaohao Cai, Shanshan Shan, Feng Liu
 
-- The paper “HiFi-Mamba: Dual-Stream W-Laplacian Enhanced Mamba for High-Fidelity MRI Reconstruction” presents HiFi-Mamba, a frequency-aware dual-stream architecture for MRI reconstruction. By coupling a w-Laplacian block for spectral decoupling with a
-guided Mamba block that models global anatomy while integrating high-frequency details.
+A dual-stream architecture for MRI reconstruction that combines W-Laplacian spectral decomposition with Mamba-based modeling of global anatomy and high-frequency detail.
 </div>
 </div>
 
@@ -76,14 +120,46 @@ Dongjie Fu<sup>★</sup>, Tengjiao Sun<sup>★</sup>, **Pengcheng Fang**<sup>★
 
 [Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10638169)
 
-Yuxia Chenx<sup>★</sup>, **Pengcheng Fang**<sup>★</sup>, Xiaoling Zhong, Jianhui Yu, Xiaoming Zhang, Tianrui Li
+Yuxia Chen<sup>★</sup>, **Pengcheng Fang**<sup>★</sup>, Xiaoling Zhong, Jianhui Yu, Xiaoming Zhang, Tianrui Li
 
 - The paper "Hi‑ResNet: Edge Detail Enhancement for High‑Resolution Remote Sensing Segmentation" proposes a novel segmentation network tailored for high-resolution remote sensing images. It introduces a funnel module for high-res semantic extraction and a multi-branch Information Aggregation (IA) module to capture multi-scale object variations. Additionally, a Class-agnostic Edge Aware (CEA) loss is designed to enhance boundary accuracy. The method achieves strong performance on benchmarks like LoveDA, Potsdam, and Vaihingen.
 </div>
 </div>
 
+## Selected Preprints
+
+The following works are publicly available on arXiv and are listed as preprints.
+
+<div class="paper-box paper-box--text-only">
+<div class="paper-box-text" markdown="1">
+
+<span class="publication-venue publication-venue--preprint">arXiv 2026 · Preprint</span>
+
+**[Privileged Foresight Distillation: Zero-Cost Future Correction for World Action Models](https://arxiv.org/abs/2604.25859)**
+
+**Pengcheng Fang**, Hongli Chen, Xiaohao Cai
+
+Distills future-conditioned action corrections from a training-time teacher into a policy that observes only the current frame, avoiding future-video generation at inference.
+
+</div>
+</div>
+
+<div class="paper-box paper-box--text-only">
+<div class="paper-box-text" markdown="1">
+
+<span class="publication-venue publication-venue--preprint">arXiv 2026 · Preprint</span>
+
+**[MoGeFlow: Flowing Through Motion Codebook Geometry for Text-to-Motion Generation](https://arxiv.org/abs/2606.11656)**
+
+**Pengcheng Fang**, Tengjiao Sun, Xiaoyu Zhan, Xiaohao Cai, Dongjie Fu
+
+Uses the geometry of learned motion codebooks to guide text-conditioned continuous flow, then maps generated states to valid discrete motion codes for decoding.
+
+</div>
+</div>
+
 # 🎓 Educations
-- *2024.07 - 2028.07 (now)*, PhD, University of Southampton, Southampton, UK.
+- *2024.07 - 2027.07 (expected)*, PhD, University of Southampton, Southampton, UK.
 - *2019.01 - 2020.11*, Master, Lancaster University, Lancaster, UK.
 - *2014.09 - 2018.07*, Undergraduate, Shanxi University, Shanxi, China.
 

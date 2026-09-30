@@ -87,6 +87,34 @@
 
 }
 
+.paper-box.paper-box--text-only {
+    padding: 1.5em 0;
+
+    .paper-box-text {
+        width: 100%;
+        max-width: 100%;
+        padding-left: 0;
+    }
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.publication-venue {
+    display: inline-block;
+    padding: .15em .65em;
+    border-radius: 3px;
+    color: #fff;
+    background-color: #00369f;
+    font-size: .8em;
+    font-weight: 600;
+}
+
+.publication-venue--preprint {
+    background-color: #52616b;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
