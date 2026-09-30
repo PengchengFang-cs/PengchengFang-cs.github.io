@@ -135,6 +135,22 @@ The following works are publicly available on arXiv and are listed as preprints.
 
 <span class="publication-venue publication-venue--preprint">arXiv 2026 · Preprint</span>
 
+**[Magpie: Real-Time World Renderer for Interactive Games](https://arxiv.org/abs/2608.27168)**
+
+Xiaoyu Zhan<sup>★</sup>, Xinyu Wang<sup>★</sup>, Xiaohong Zhang<sup>★</sup>, Huanjie Zhu<sup>★</sup>, Tengjiao Sun, **Pengcheng Fang**, Jiaxing Yu, Yanwen Guo, Dongjie Fu
+
+A real-time generative world renderer for interactive games. A game engine maintains rules and world state, while a separate generative renderer transforms simplified engine frames into detailed visual output.
+
+[Project page](https://zhanxy.xyz/Magpie-website)
+
+</div>
+</div>
+
+<div class="paper-box paper-box--text-only">
+<div class="paper-box-text" markdown="1">
+
+<span class="publication-venue publication-venue--preprint">arXiv 2026 · Preprint</span>
+
 **[Privileged Foresight Distillation: Zero-Cost Future Correction for World Action Models](https://arxiv.org/abs/2604.25859)**
 
 **Pengcheng Fang**, Hongli Chen, Xiaohao Cai
