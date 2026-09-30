@@ -135,6 +135,20 @@ The following works are publicly available on arXiv and are listed as preprints.
 
 <span class="publication-venue publication-venue--preprint">arXiv 2026 · Preprint</span>
 
+**[SCAMP: Sparse-anchor Control is One Small Projection](https://arxiv.org/abs/2605.14716)**
+
+**Pengcheng Fang**<sup>★</sup>, Tengjiao Sun<sup>★</sup>, Xiaoyu Zhan, Yanwen Guo, Hansung Kim, Xiaohao Cai, Dongjie Fu
+
+Formulates sparse motion control as a minimum-norm projection and derives a training-free solver operating in the low-dimensional anchor space. The analysis characterizes which state directions the correction preserves, while experiments across motion generators examine how the decoder's temporal support affects motion quality.
+
+</div>
+</div>
+
+<div class="paper-box paper-box--text-only">
+<div class="paper-box-text" markdown="1">
+
+<span class="publication-venue publication-venue--preprint">arXiv 2026 · Preprint</span>
+
 **[Magpie: Real-Time World Renderer for Interactive Games](https://arxiv.org/abs/2608.27168)**
 
 Xiaoyu Zhan<sup>★</sup>, Xinyu Wang<sup>★</sup>, Xiaohong Zhang<sup>★</sup>, Huanjie Zhu<sup>★</sup>, Tengjiao Sun, **Pengcheng Fang**, Jiaxing Yu, Yanwen Guo, Dongjie Fu
